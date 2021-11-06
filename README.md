@@ -1,4 +1,14 @@
-### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Ilyes_BHD](). I'm a college student from tunisia. I consider myself to be a Front-End Web Developer and creative problem solver. I try everything, fail and rise again. I believe that you can never know enough yet you can figure everything by constantly acquiring and sharing knowledge because it is the key to progress!
+ Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Ilyes_BHD](). I'm a college student from tunisia. I consider myself to be a Front-End Web Developer and creative problem solver. I try everything, fail and rise again. I believe that you can never know enough yet you can figure everything by constantly acquiring and sharing knowledge because it is the key to progress!
+
+
+
+
+<br /><br />
+
+
+<img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="400px" height="300px"/>
+  
+- 💬 Ask me about anything, i am happy to help;
 
 <a href="https://twitter.com/hajdahman_ilyes">
   <img align="left" alt="Ilyes's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -6,18 +16,7 @@
 <a href="https://www.linkedin.com/in/ilyes-bhd-53a95021a/">
   <img align="left" alt="Ilyes's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
 <br /><br />
-
-Hi there,
-
-
-<img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="400px" height="300px"/>
-  
-- 💬 Ask me about anything, i am happy to help;
-
-
 
 
 **Languages and tools:**  
