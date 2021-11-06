@@ -17,7 +17,6 @@ Hi there, i'm [Ilyes_BHD](). I'm a college student from tunisia. I consider myse
 
 <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="400px" height="300px"/>
   
-- 💼 Any freelance work? do reach, [email](ilyeshajdahman81@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
 
 
