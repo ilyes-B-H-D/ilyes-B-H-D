@@ -4,7 +4,7 @@ I'm a final year bachelor's degree student at ISET Rades university from tunisia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyes-b-h-d&label=Profile%20views&color=0e75b6&style=flat" alt="ilyes-b-h-d" /> </p>
 
-- 🌱 I’m currently leetcoding[https://leetcode.com/Iyesse/] and working on my End Of Study Internship ( it's an AR-commerce app with an admin panel dashbaord)
+- 🌱 I’m currently [leetcoding](https://leetcode.com/Iyesse/) and working on my End Of Study Internship ( it's an AR-commerce app with an admin panel dashbaord)
 
 - 👨‍💻 All of my projects are available at [https://ilyesbhd.me/](https://ilyesbhd.me/)
 
