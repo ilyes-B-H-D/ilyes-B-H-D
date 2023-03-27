@@ -4,14 +4,7 @@ I'm a final year bachelor's degree student at ISET Rades university from tunisia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyes-b-h-d&label=Profile%20views&color=0e75b6&style=flat" alt="ilyes-b-h-d" /> </p>
 
-- 🔭 I’m currently working on [ikrili](https://ikrili.tn/)
-
 - 🌱 I’m currently leetcoding **React native, Docker**
-
-
-#- 👯 I’m looking to collaborate on [ikrili](https://ikrili.tn/)
-
-#- 🤝 I’m looking for help with [ikrili](https://ikrili.tn/)
 
 - 👨‍💻 All of my projects are available at [https://ilyesbhd.me/](https://ilyesbhd.me/)
 
