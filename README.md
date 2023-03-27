@@ -8,19 +8,20 @@ I'm a final year bachelor's degree student at ISET Rades university from tunisia
 
 - 🌱 I’m currently leetcoding **React native, Docker**
 
-- 👯 I’m looking to collaborate on [ikrili](https://ikrili.tn/)
 
-- 🤝 I’m looking for help with [ikrili](https://ikrili.tn/)
+#- 👯 I’m looking to collaborate on [ikrili](https://ikrili.tn/)
+
+#- 🤝 I’m looking for help with [ikrili](https://ikrili.tn/)
 
 - 👨‍💻 All of my projects are available at [https://ilyesbhd.me/](https://ilyesbhd.me/)
 
-- 💬 Ask me about **ReactJs, CSS, HTML**
+- 💬 Ask me about **Flutter, Docker, ExpressTS, ReacTS, CSS, HTML**
 
 - 📫 How to reach me **ilyesbenhajdahmane@gmail.com**
 
 - 📄 Know about my experiences [https://ilyesbhd.me/resume](https://ilyesbhd.me/resume)
 
-- ⚡ Fun fact **I love CSS**
+- ⚡ Fun fact **I love CSS 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
