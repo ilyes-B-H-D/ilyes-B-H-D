@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ilyes </h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
-I'm a final year bachelor's degree student at ISET Rades university from tunisia. I consider myself to be a Front-End Web Developer and creative problem solver. I try everything, fail and rise again. I believe that you can never know enough yet you can figure everything by constantly acquiring and sharing knowledge because it is the key to progress!
+<h3 align="center">A Full stack developer | XR enthusiast 👨‍💻</h3>
+Hello! I'm a versatile Full Stack developer with a passion for Extended Reality (XR) and mobile app development. I thrive on turning complex challenges into impactful solutions using technology. Let's team up and bring your projects to life in extraordinary ways!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyes-b-h-d&label=Profile%20views&color=0e75b6&style=flat" alt="ilyes-b-h-d" /> </p>
 
-- 🌱 I’m currently [leetcoding](https://leetcode.com/Iyesse/) and working on my End Of Study Internship ( it's an AR-commerce app with an admin panel dashbaord)
+- 🌱 I’m currently [leetcoding](https://leetcode.com/Iyesse/) and working on my Startup [Augmenty](http://augmenty.live/)
 
 - 👨‍💻 All of my projects are available at [https://ilyesbhd.me/](https://ilyesbhd.me/)
 
